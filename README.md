@@ -28,3 +28,9 @@
 # 3.调用方式
 # 4.代码设计
 
+#依赖于npm：
+npm init 生成package.json
+此项目用webpack编译，
+npm install webpack --save-dev
+用webpack-dev-server编译并启动服务，
+npm install webpack-dev-server --save-dev
