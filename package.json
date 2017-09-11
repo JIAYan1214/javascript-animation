@@ -1,0 +1,22 @@
+{
+  "name": "javascript-animation",
+  "version": "1.0.0",
+  "description": "原生js实现通用帧动画库\r demo:是实现一个简单的动画",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhz-jiayanyan/javascript-animation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhz-jiayanyan/javascript-animation/issues"
+  },
+  "homepage": "https://github.com/jhz-jiayanyan/javascript-animation#readme",
+  "dependencies": {
+    "webpack": "^3.5.6"
+  }
+}
